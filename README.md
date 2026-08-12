@@ -7,6 +7,16 @@ Mumbai, India &nbsp;•&nbsp;
 <a href="https://adityatiwaricodes.github.io/">Portfolio</a>
 </p>
 
+<p align="center">
+<a href="#about-me">About</a> •
+<a href="#tech-stack">Skills</a> •
+<a href="#professional-experience">Experience</a> •
+<a href="#featured-projects">Projects</a> •
+<a href="#certifications">Certifications</a> •
+<a href="#github-stats">GitHub</a> •
+<a href="#lets-connect">Contact</a>
+</p>
+
 ---
 
 ### About Me
@@ -16,6 +26,17 @@ Mumbai, India &nbsp;•&nbsp;
 - 🎓 Currently completing an **MCA at Jain University** (CGPA 9.30/10)
 - 🎯 Looking for **Data Analyst / BI Analyst / Reporting Analyst** roles (also open to QA Automation roles) in fintech, BFSI, and high-growth startups
 - ⚡ Comfortable end-to-end with data: cleaning → validation → visualization → stakeholder reporting
+
+**Professional Snapshot**
+
+```
+💼 Experience        →  3+ Years
+🧪 Specialization     →  QA Automation → Data Analytics
+🐍 Core Languages     →  Python, Java, SQL
+🧰 Automation         →  Selenium, Playwright, BDD Cucumber
+📊 Analytics          →  Power BI, Tableau, Pandas/NumPy
+🏢 Domain             →  FinTech / Enterprise Billing
+```
 
 ---
 
@@ -53,12 +74,28 @@ Mumbai, India &nbsp;•&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 
+<details>
+<summary>🔎 View Automation Engineering Details</summary>
+
+- **UI Automation:** Selenium WebDriver (Java), Page Object Model
+- **API Testing:** REST API validation, Postman, JSON/XML, HTTP methods
+- **BDD:** Cucumber, Gherkin-style scenario design
+- **CI/CD:** Jenkins pipelines, GitHub Actions
+- **Data-driven & regression testing:** parameterized test suites across billing/finance workflows
+- **Reporting:** Extent Reports, Log4j2 logging, Excel-based KPI dashboards
+
+</details>
+
 ---
 
 ### Professional Experience
 
-**Software QA Automation Engineer — DataDevice**, Mumbai · *Feb 2023 – Present*
-Enterprise billing & finance platform (web + REST API, React/Angular)
+```
+Feb 2023 — Present
+└── Software QA Automation Engineer
+    └── DataDevice, Mumbai
+        Enterprise billing & finance platform (web + REST API, React/Angular)
+```
 
 - Built and maintained weekly KPI and defect-trend dashboards in Excel across 3 product lines, aggregating test execution, coverage, and pass/fail data to enable data-driven release decisions
 - Ran root-cause and trend analysis on 200+ production defects using SQL against production/staging datasets, reducing recurring defects by 15%
@@ -86,9 +123,39 @@ Normalized (3NF) relational database for 500+ employee records across 5 related 
 Hybrid automation framework with Dockerized Selenium Grid for parallel cross-browser testing, integrated with Jenkins CI/CD, Log4j2 logging, and Extent Reports.
 `Java` `Selenium` `TestNG` `Cucumber` `Docker` `Jenkins`
 
+<details>
+<summary>🏗️ View framework architecture</summary>
+
+```
+Test Cases
+    ↓
+TestNG
+    ↓
+Cucumber (BDD)
+    ↓
+Selenium WebDriver
+    ↓
+Dockerized Selenium Grid (parallel, cross-browser)
+    ↓
+Opencart Application
+    ↓
+Jenkins CI/CD → Extent Reports + Log4j2
+```
+
+</details>
+
+---
+
+### Currently Learning
+
+📚 AI/LLM applications for software testing and data analytics
+
 ---
 
 ### Certifications
+
+<details>
+<summary>📜 View all certifications</summary>
 
 - Data Analytics Job Simulation — Deloitte Australia (Forage)
 - Power BI for Data Analysts by Microsoft Press — LinkedIn / Simplilearn
@@ -97,8 +164,24 @@ Hybrid automation framework with Dockerized Selenium Grid for parallel cross-bro
 - Build Your Generative AI Productivity Skills — Microsoft / LinkedIn
 - Introducing Postman — LinkedIn Learning
 
+</details>
+
 ---
 
 ### GitHub Stats
 
-<p align="center"> <img src="profile/stats.svg" alt="GitHub Stats" height="165"/> <img src="profile/top-langs.svg" alt="Top Languages" height="165"/> </p>
+<p align="center">
+<img src="profile/stats.svg" alt="GitHub Stats" height="165"/>
+<img src="profile/top-langs.svg" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### Let's Connect
+
+I'm always interested in discussing test automation, data analytics, SQL, Python, and quality engineering.
+
+<p align="center">
+📫 <a href="https://www.linkedin.com/in/aditya-tiwari-601306174/">LinkedIn</a> &nbsp;•&nbsp;
+🌐 <a href="https://adityatiwaricodes.github.io/">Portfolio</a>
+</p>
