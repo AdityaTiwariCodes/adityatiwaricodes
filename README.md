@@ -101,14 +101,4 @@ Hybrid automation framework with Dockerized Selenium Grid for parallel cross-bro
 
 ### GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityatiwaricodes&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityatiwaricodes&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
-<p align="center">
-📫 <a href="https://www.linkedin.com/in/aditya-tiwari-601306174/">LinkedIn</a> &nbsp;•&nbsp;
-🌐 <a href="https://adityatiwaricodes.github.io/">Portfolio</a>
-</p>
+<p align="center"> <img src="profile/stats.svg" alt="GitHub Stats" height="165"/> <img src="profile/top-langs.svg" alt="Top Languages" height="165"/> </p>
